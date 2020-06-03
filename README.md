@@ -10,5 +10,5 @@
 
 ### Nomal eis
 
-![Image](https://img-9gag-fun.9cache.com/photo/abY8mEr_460swp.webp)
+![Image](https://img-9gag-fun.9cache.com/photo/abY8mEr_700bwp.webp)
 
