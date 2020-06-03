@@ -6,7 +6,7 @@
 
 ### Was isch echt daas?
 
-![Image](hhttps://img-9gag-fun.9cache.com/photo/aV3r9jv_700bwp.webp)
+![Image](https://img-9gag-fun.9cache.com/photo/aV3r9jv_700bwp.webp)
 
 ### Nomal eis
 
