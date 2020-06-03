@@ -2,7 +2,7 @@
 
 ### Hehe
 
-![Image](https://img-9gag-fun.9cache.com/photo/aWYX06A_460swp.webp)
+![Image](https://img-9gag-fun.9cache.com/photo/aWYX06A_700bwp.webp)
 
 ### Was isch echt daas?
 
