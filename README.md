@@ -1,5 +1,3 @@
-## Memes for Damaris ;)
-
 ### Hehe
 
 <p align="center">
