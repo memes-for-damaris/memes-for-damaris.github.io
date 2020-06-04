@@ -22,6 +22,13 @@
   <img src="https://img-9gag-fun.9cache.com/photo/abY8mEr_700bwp.webp" width="256">
 </p>
 
+# LOL
+
+<video width="320" height="240" controls>
+  <source src="https://img-9gag-fun.9cache.com/photo/avznb8Z_460svvp9.webm" type="video/webm">
+Your browser does not support the video tag.
+</video>
+
 ### The End
 
 Meh hani nanig.
