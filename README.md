@@ -1,4 +1,4 @@
-### ¯\_(ツ)_/¯
+### ¯\\_(ツ)_/¯
 
 <p align="center">
   <img src="https://img-9gag-fun.9cache.com/photo/aBm1AdP_700bwp.webp" width="256">
