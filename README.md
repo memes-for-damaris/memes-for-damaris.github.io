@@ -24,10 +24,11 @@
 
 # LOL
 
-<video width="320" height="240" controls>
+<p align="center">
+<video width="256" height="200" controls>
   <source src="https://img-9gag-fun.9cache.com/photo/avznb8Z_460svvp9.webm" type="video/webm">
-Your browser does not support the video tag.
 </video>
+</p>
 
 ### The End
 
