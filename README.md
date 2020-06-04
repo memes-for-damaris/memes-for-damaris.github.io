@@ -1,28 +1,28 @@
-### ¯\\_(ツ)_/¯
+## ¯\\_(ツ)_/¯
 
 <p align="center">
   <img src="https://img-9gag-fun.9cache.com/photo/aBm1AdP_700bwp.webp" width="256">
 </p>
 
-### Hehe
+## Hehe
 
 <p align="center">
   <img src="https://img-9gag-fun.9cache.com/photo/aWYX06A_700bwp.webp" width="256">
 </p>
 
-### Was isch echt daas?
+## Was isch echt daas?
 
 <p align="center">
   <img src="https://img-9gag-fun.9cache.com/photo/aV3r9jv_700bwp.webp" width="256">
 </p>
 
-### Nomal eis
+## Nomal eis
 
 <p align="center">
   <img src="https://img-9gag-fun.9cache.com/photo/abY8mEr_700bwp.webp" width="256">
 </p>
 
-# LOL
+## LOL
 
 <p align="center">
 <video width="256" height="200" controls>
@@ -30,6 +30,6 @@
 </video>
 </p>
 
-### The End
+## The End
 
 Meh hani nanig.
